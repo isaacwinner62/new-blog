@@ -29,7 +29,7 @@
       "category": "Design",
       "tags": ["web-design", "trends", "ui-ux", "ai", "sustainability"],
       "featuredImage": {
-        "url": "/images/articles/web-design-trends-2024.jpg",
+        "url": "/placeholder.svg?height=400&width=600&text=Web+Design+Trends",
         "alt": "Modern web design interface showcasing 2024 design trends with clean layouts and bold typography"
       },
       "seo": {
@@ -42,7 +42,9 @@
       "sponsored": false,
       "readTime": 8,
       "relatedIds": ["a2", "a3"],
-      "status": "published"
+      "status": "published",
+      "featured": true,
+      "trending": true
     },
     {
       "id": "a2",
@@ -63,23 +65,25 @@
       },
       "publishedAt": "2024-01-12T09:00:00Z",
       "modifiedAt": "2024-01-12T09:00:00Z",
-      "category": "SEO",
+      "category": "Technology",
       "tags": ["seo", "content-marketing", "google", "optimization", "ranking"],
       "featuredImage": {
-        "url": "/images/articles/seo-guide-2024.jpg",
+        "url": "/placeholder.svg?height=400&width=600&text=SEO+Guide+2024",
         "alt": "SEO analytics dashboard showing keyword rankings and traffic growth metrics"
       },
       "seo": {
         "title": "Mastering SEO in 2024: Complete Guide for Content Creators | Premium Blog",
         "metaDescription": "Master SEO in 2024 with our comprehensive guide. Learn Core Web Vitals optimization, E-A-T principles, and technical SEO best practices.",
-        "canonical": "https://premiumblog.com/seo/mastering-seo-2024-complete-guide",
+        "canonical": "https://premiumblog.com/technology/mastering-seo-2024-complete-guide",
         "robots": "index,follow",
         "focusKeyword": "SEO 2024 guide"
       },
       "sponsored": false,
       "readTime": 12,
       "relatedIds": ["a1", "a3"],
-      "status": "published"
+      "status": "published",
+      "featured": false,
+      "trending": true
     },
     {
       "id": "a3",
@@ -100,23 +104,220 @@
       },
       "publishedAt": "2024-01-10T11:00:00Z",
       "modifiedAt": "2024-01-11T16:45:00Z",
-      "category": "Development",
+      "category": "Technology",
       "tags": ["react", "javascript", "architecture", "scalability", "best-practices"],
       "featuredImage": {
-        "url": "/images/articles/react-architecture.jpg",
+        "url": "/placeholder.svg?height=400&width=600&text=React+Architecture",
         "alt": "React component architecture diagram showing scalable application structure"
       },
       "seo": {
         "title": "Building Scalable React Applications: Architecture Best Practices | Premium Blog",
         "metaDescription": "Learn how to build scalable React applications with proven architectural patterns, state management strategies, and performance optimization techniques.",
-        "canonical": "https://premiumblog.com/development/scalable-react-applications-architecture",
+        "canonical": "https://premiumblog.com/technology/scalable-react-applications-architecture",
         "robots": "index,follow",
         "focusKeyword": "scalable React applications"
       },
       "sponsored": false,
       "readTime": 15,
       "relatedIds": ["a1", "a2"],
-      "status": "published"
+      "status": "published",
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "a4",
+      "title": "The Rise of Telemedicine: Transforming Healthcare in the Digital Age",
+      "slug": "telemedicine-transforming-healthcare-digital-age",
+      "excerpt": "Explore how telemedicine is revolutionizing patient care, improving accessibility, and reshaping the future of healthcare delivery worldwide.",
+      "contentQuill": {},
+      "html": "<p>The healthcare industry has undergone a dramatic transformation in recent years, with telemedicine emerging as a game-changing solution that bridges the gap between patients and healthcare providers. This digital revolution has not only improved access to medical care but has also redefined how we think about healthcare delivery.</p><h2>Breaking Down Barriers to Healthcare Access</h2><p>Telemedicine has proven particularly valuable in addressing healthcare disparities, especially in rural and underserved communities where access to specialists and quality care has traditionally been limited.</p><h3>Key Benefits of Telemedicine</h3><ul><li>Reduced travel time and costs for patients</li><li>Improved access to specialists</li><li>Enhanced continuity of care</li><li>Better management of chronic conditions</li></ul><p>The COVID-19 pandemic accelerated the adoption of telemedicine technologies, with many healthcare systems reporting a 3000% increase in telehealth visits during peak periods.</p><h2>Technology Driving Innovation</h2><p>Advanced technologies including AI-powered diagnostics, remote monitoring devices, and secure communication platforms are making telemedicine more effective and accessible than ever before.</p><p>As we look to the future, telemedicine will continue to evolve, incorporating emerging technologies like virtual reality for therapy sessions and AI-assisted diagnosis to provide even more comprehensive remote healthcare solutions.</p>",
+      "author": {
+        "id": "u4",
+        "name": "Dr. Emily Watson",
+        "bio": "Healthcare technology researcher and practicing physician with expertise in digital health solutions and telemedicine implementation.",
+        "avatar": "/placeholder.svg?height=80&width=80&text=EW",
+        "social": {
+          "twitter": "@drwatsonhealth",
+          "linkedin": "emily-watson-md"
+        }
+      },
+      "publishedAt": "2024-01-08T14:00:00Z",
+      "modifiedAt": "2024-01-08T14:00:00Z",
+      "category": "Health",
+      "tags": ["telemedicine", "healthcare", "digital-health", "technology", "patient-care"],
+      "featuredImage": {
+        "url": "/placeholder.svg?height=400&width=600&text=Telemedicine+Healthcare",
+        "alt": "Doctor conducting a telemedicine consultation with patient via video call"
+      },
+      "seo": {
+        "title": "The Rise of Telemedicine: Transforming Healthcare in the Digital Age | Premium Blog",
+        "metaDescription": "Discover how telemedicine is revolutionizing healthcare delivery, improving patient access, and transforming medical care in the digital era.",
+        "canonical": "https://premiumblog.com/health/telemedicine-transforming-healthcare-digital-age",
+        "robots": "index,follow",
+        "focusKeyword": "telemedicine healthcare transformation"
+      },
+      "sponsored": false,
+      "readTime": 10,
+      "relatedIds": ["a5", "a6"],
+      "status": "published",
+      "featured": true,
+      "trending": false
+    },
+    {
+      "id": "a5",
+      "title": "Sustainable Business Practices: The New Competitive Advantage",
+      "slug": "sustainable-business-practices-competitive-advantage",
+      "excerpt": "Learn how companies are turning environmental responsibility into profitable business strategies and gaining competitive advantages in the marketplace.",
+      "contentQuill": {},
+      "html": "<p>In today's business landscape, sustainability is no longer just a moral imperative—it's a strategic necessity. Companies that embrace sustainable practices are discovering that environmental responsibility can drive innovation, reduce costs, and create significant competitive advantages.</p><h2>The Business Case for Sustainability</h2><p>Modern consumers are increasingly conscious of environmental issues, with 73% of global consumers willing to pay more for sustainable products and services. This shift in consumer behavior is forcing businesses to rethink their operations and value propositions.</p><h3>Key Areas of Sustainable Business Practice</h3><ul><li>Renewable energy adoption</li><li>Circular economy principles</li><li>Sustainable supply chain management</li><li>Waste reduction and recycling programs</li><li>Carbon footprint reduction</li></ul><h2>Financial Benefits of Going Green</h2><p>Companies implementing sustainable practices often see immediate cost savings through improved efficiency, reduced waste, and lower energy consumption. Long-term benefits include enhanced brand reputation, increased customer loyalty, and access to green financing options.</p><blockquote>\"Sustainability is not just about doing less harm. It's about doing more good.\" - Jochen Zeitz</blockquote><p>Leading companies like Patagonia, Unilever, and Tesla have demonstrated that sustainability can be a powerful driver of innovation and profitability, setting new standards for their respective industries.</p>",
+      "author": {
+        "id": "u5",
+        "name": "Michael Green",
+        "bio": "Sustainability consultant and business strategist helping companies integrate environmental responsibility into their core operations.",
+        "avatar": "/placeholder.svg?height=80&width=80&text=MG",
+        "social": {
+          "twitter": "@michaelgreenbiz",
+          "linkedin": "michael-green-sustainability"
+        }
+      },
+      "publishedAt": "2024-01-05T16:30:00Z",
+      "modifiedAt": "2024-01-05T16:30:00Z",
+      "category": "Business",
+      "tags": ["sustainability", "business-strategy", "environment", "competitive-advantage", "green-business"],
+      "featuredImage": {
+        "url": "/placeholder.svg?height=400&width=600&text=Sustainable+Business",
+        "alt": "Green business concept with renewable energy and sustainable practices"
+      },
+      "seo": {
+        "title": "Sustainable Business Practices: The New Competitive Advantage | Premium Blog",
+        "metaDescription": "Discover how sustainable business practices create competitive advantages, drive innovation, and improve profitability in today's market.",
+        "canonical": "https://premiumblog.com/business/sustainable-business-practices-competitive-advantage",
+        "robots": "index,follow",
+        "focusKeyword": "sustainable business practices"
+      },
+      "sponsored": false,
+      "readTime": 9,
+      "relatedIds": ["a4", "a7"],
+      "status": "published",
+      "featured": false,
+      "trending": true
+    },
+    {
+      "id": "a6",
+      "title": "Mindful Living: Creating Balance in a Hyperconnected World",
+      "slug": "mindful-living-balance-hyperconnected-world",
+      "excerpt": "Discover practical strategies for maintaining mental wellness and finding balance in our increasingly digital and fast-paced modern lifestyle.",
+      "contentQuill": {},
+      "html": "<p>In our hyperconnected world, the constant stream of notifications, emails, and digital interactions can leave us feeling overwhelmed and disconnected from ourselves. Mindful living offers a path to reclaim our mental space and create meaningful balance in our daily lives.</p><h2>Understanding Digital Overwhelm</h2><p>The average person checks their phone 96 times per day and receives over 100 notifications daily. This constant digital stimulation can lead to increased stress, decreased focus, and a sense of being perpetually 'on.'</p><h3>Signs You Need a Digital Detox</h3><ul><li>Difficulty concentrating on single tasks</li><li>Feeling anxious when separated from devices</li><li>Sleep disruption from screen time</li><li>Decreased face-to-face social interactions</li></ul><h2>Practical Mindfulness Strategies</h2><p>Implementing mindful practices doesn't require dramatic lifestyle changes. Small, consistent actions can create significant improvements in mental clarity and overall well-being.</p><blockquote>\"Mindfulness is about being fully awake in our lives. It is about perceiving the exquisite vividness of each moment.\" - Jon Kabat-Zinn</blockquote><h3>Daily Mindfulness Practices</h3><ul><li>Morning meditation or breathing exercises</li><li>Scheduled device-free time periods</li><li>Mindful eating without distractions</li><li>Nature walks and outdoor activities</li><li>Gratitude journaling</li></ul><p>By incorporating these practices into our routines, we can develop greater resilience, improved focus, and a deeper sense of connection to ourselves and others.</p>",
+      "author": {
+        "id": "u6",
+        "name": "Lisa Harmony",
+        "bio": "Wellness coach and mindfulness instructor specializing in digital wellness and work-life balance for modern professionals.",
+        "avatar": "/placeholder.svg?height=80&width=80&text=LH",
+        "social": {
+          "twitter": "@lisaharmony",
+          "linkedin": "lisa-harmony-wellness"
+        }
+      },
+      "publishedAt": "2024-01-03T12:00:00Z",
+      "modifiedAt": "2024-01-03T12:00:00Z",
+      "category": "Lifestyle",
+      "tags": ["mindfulness", "wellness", "digital-detox", "work-life-balance", "mental-health"],
+      "featuredImage": {
+        "url": "/placeholder.svg?height=400&width=600&text=Mindful+Living",
+        "alt": "Peaceful meditation scene representing mindful living and digital wellness"
+      },
+      "seo": {
+        "title": "Mindful Living: Creating Balance in a Hyperconnected World | Premium Blog",
+        "metaDescription": "Learn practical mindfulness strategies to create balance, reduce digital overwhelm, and improve mental wellness in our hyperconnected world.",
+        "canonical": "https://premiumblog.com/lifestyle/mindful-living-balance-hyperconnected-world",
+        "robots": "index,follow",
+        "focusKeyword": "mindful living digital balance"
+      },
+      "sponsored": false,
+      "readTime": 7,
+      "relatedIds": ["a4", "a8"],
+      "status": "published",
+      "featured": false,
+      "trending": false
+    },
+    {
+      "id": "a7",
+      "title": "The Future of Remote Work: Trends Shaping Tomorrow's Workplace",
+      "slug": "future-remote-work-trends-workplace",
+      "excerpt": "Explore the evolving landscape of remote work and discover the trends that will define how we work, collaborate, and build careers in the digital age.",
+      "contentQuill": {},
+      "html": "<p>The remote work revolution has fundamentally transformed how we think about employment, productivity, and work-life integration. As we look toward the future, several key trends are emerging that will continue to shape the workplace landscape.</p><h2>Hybrid Work Models Become the Norm</h2><p>Rather than a complete return to office or fully remote setups, most organizations are adopting hybrid models that offer flexibility while maintaining team cohesion and company culture.</p><h3>Key Components of Successful Hybrid Work</h3><ul><li>Flexible scheduling and location options</li><li>Investment in collaboration technology</li><li>Redesigned office spaces for collaboration</li><li>Clear communication protocols</li></ul><h2>Technology Enabling Seamless Collaboration</h2><p>Advanced tools for virtual collaboration, project management, and team communication are making remote work more efficient and engaging than ever before.</p><p>Virtual reality meetings, AI-powered productivity tools, and sophisticated project management platforms are creating new possibilities for distributed teams to work together effectively.</p><h2>The Rise of Digital Nomadism</h2><p>With location independence becoming more feasible, a growing number of professionals are embracing the digital nomad lifestyle, working from different locations around the world.</p><blockquote>\"The future of work is not about where you work, but how you work.\" - Brian Chesky, Airbnb CEO</blockquote><p>This trend is driving demand for co-working spaces, digital nomad visas, and infrastructure that supports location-independent work.</p>",
+      "author": {
+        "id": "u7",
+        "name": "David Future",
+        "bio": "Workplace innovation consultant and author specializing in remote work strategies and future of work trends.",
+        "avatar": "/placeholder.svg?height=80&width=80&text=DF",
+        "social": {
+          "twitter": "@davidfuturework",
+          "linkedin": "david-future-workplace"
+        }
+      },
+      "publishedAt": "2024-01-01T10:00:00Z",
+      "modifiedAt": "2024-01-01T10:00:00Z",
+      "category": "Business",
+      "tags": ["remote-work", "future-of-work", "hybrid-work", "digital-nomad", "workplace-trends"],
+      "featuredImage": {
+        "url": "/placeholder.svg?height=400&width=600&text=Future+Remote+Work",
+        "alt": "Modern remote work setup with multiple screens and collaboration tools"
+      },
+      "seo": {
+        "title": "The Future of Remote Work: Trends Shaping Tomorrow's Workplace | Premium Blog",
+        "metaDescription": "Discover the key trends shaping the future of remote work, from hybrid models to digital nomadism and advanced collaboration technologies.",
+        "canonical": "https://premiumblog.com/business/future-remote-work-trends-workplace",
+        "robots": "index,follow",
+        "focusKeyword": "future of remote work"
+      },
+      "sponsored": false,
+      "readTime": 11,
+      "relatedIds": ["a5", "a8"],
+      "status": "published",
+      "featured": true,
+      "trending": true
+    },
+    {
+      "id": "a8",
+      "title": "Plant-Based Nutrition: A Complete Guide to Healthy Living",
+      "slug": "plant-based-nutrition-complete-guide-healthy-living",
+      "excerpt": "Discover the science-backed benefits of plant-based nutrition and learn practical strategies for transitioning to a healthier, more sustainable diet.",
+      "contentQuill": {},
+      "html": "<p>Plant-based nutrition has gained significant attention in recent years, not just as a dietary trend, but as a scientifically-supported approach to optimal health and environmental sustainability. This comprehensive guide explores the benefits, challenges, and practical aspects of adopting a plant-based lifestyle.</p><h2>The Science Behind Plant-Based Nutrition</h2><p>Extensive research has shown that well-planned plant-based diets can provide all necessary nutrients while offering protection against chronic diseases including heart disease, diabetes, and certain cancers.</p><h3>Key Nutritional Benefits</h3><ul><li>Higher fiber intake for digestive health</li><li>Increased antioxidant consumption</li><li>Lower saturated fat intake</li><li>Improved cardiovascular health markers</li><li>Better weight management</li></ul><h2>Essential Nutrients to Monitor</h2><p>While plant-based diets offer numerous health benefits, it's important to pay attention to certain nutrients that may require special consideration.</p><blockquote>\"Let food be thy medicine and medicine be thy food.\" - Hippocrates</blockquote><h3>Key Nutrients for Plant-Based Eaters</h3><ul><li>Vitamin B12 - requires supplementation</li><li>Iron - combine with vitamin C for absorption</li><li>Omega-3 fatty acids - from algae, flax, and chia</li><li>Protein - combine different plant sources</li><li>Calcium - from leafy greens and fortified foods</li></ul><h2>Practical Transition Strategies</h2><p>Transitioning to a plant-based diet doesn't have to be overwhelming. Gradual changes and proper planning can make the process enjoyable and sustainable.</p><p>Start by incorporating more plant-based meals into your weekly routine, experiment with new recipes, and focus on whole, minimally processed foods for optimal nutrition and satisfaction.</p>",
+      "author": {
+        "id": "u8",
+        "name": "Dr. Rachel Green",
+        "bio": "Registered dietitian and plant-based nutrition specialist with over 15 years of experience in clinical nutrition and wellness coaching.",
+        "avatar": "/placeholder.svg?height=80&width=80&text=RG",
+        "social": {
+          "twitter": "@drrachelgreen",
+          "linkedin": "rachel-green-nutrition"
+        }
+      },
+      "publishedAt": "2023-12-28T15:00:00Z",
+      "modifiedAt": "2023-12-28T15:00:00Z",
+      "category": "Health",
+      "tags": ["plant-based", "nutrition", "healthy-eating", "wellness", "sustainable-diet"],
+      "featuredImage": {
+        "url": "/placeholder.svg?height=400&width=600&text=Plant+Based+Nutrition",
+        "alt": "Colorful array of fresh fruits, vegetables, and plant-based foods"
+      },
+      "seo": {
+        "title": "Plant-Based Nutrition: A Complete Guide to Healthy Living | Premium Blog",
+        "metaDescription": "Learn about plant-based nutrition benefits, essential nutrients, and practical strategies for transitioning to a healthier, sustainable diet.",
+        "canonical": "https://premiumblog.com/health/plant-based-nutrition-complete-guide-healthy-living",
+        "robots": "index,follow",
+        "focusKeyword": "plant-based nutrition guide"
+      },
+      "sponsored": false,
+      "readTime": 13,
+      "relatedIds": ["a6", "a4"],
+      "status": "published",
+      "featured": false,
+      "trending": false
     }
   ],
   "categories": [
@@ -125,21 +326,40 @@
       "name": "Design",
       "slug": "design",
       "description": "Latest trends and insights in web design, UI/UX, and visual design.",
-      "color": "#6366f1"
+      "color": "#6366f1",
+      "icon": "palette"
     },
     {
-      "id": "seo",
-      "name": "SEO",
-      "slug": "seo",
-      "description": "Search engine optimization strategies and best practices.",
-      "color": "#10b981"
+      "id": "technology",
+      "name": "Technology",
+      "slug": "technology",
+      "description": "Cutting-edge tech trends, development tutorials, and digital innovation insights.",
+      "color": "#10b981",
+      "icon": "cpu"
     },
     {
-      "id": "development",
-      "name": "Development",
-      "slug": "development",
-      "description": "Web development tutorials, frameworks, and coding best practices.",
-      "color": "#f59e0b"
+      "id": "business",
+      "name": "Business",
+      "slug": "business",
+      "description": "Business strategy, entrepreneurship, and professional development insights.",
+      "color": "#f59e0b",
+      "icon": "briefcase"
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "slug": "health",
+      "description": "Health and wellness tips, medical insights, and lifestyle medicine.",
+      "color": "#ef4444",
+      "icon": "heart"
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle",
+      "slug": "lifestyle",
+      "description": "Lifestyle tips, personal development, and work-life balance strategies.",
+      "color": "#8b5cf6",
+      "icon": "coffee"
     }
   ],
   "users": [
@@ -148,41 +368,76 @@
       "name": "Sarah Chen",
       "email": "sarah@premiumblog.com",
       "role": "admin",
-      "avatar": "/images/authors/sarah-chen.jpg"
+      "avatar": "/placeholder.svg?height=80&width=80&text=SC"
     },
     {
       "id": "u2",
       "name": "Marcus Rodriguez",
       "email": "marcus@premiumblog.com",
       "role": "editor",
-      "avatar": "/images/authors/marcus-rodriguez.jpg"
+      "avatar": "/placeholder.svg?height=80&width=80&text=MR"
     },
     {
       "id": "u3",
       "name": "Alex Thompson",
       "email": "alex@premiumblog.com",
       "role": "editor",
-      "avatar": "/images/authors/alex-thompson.jpg"
+      "avatar": "/placeholder.svg?height=80&width=80&text=AT"
+    },
+    {
+      "id": "u4",
+      "name": "Dr. Emily Watson",
+      "email": "emily@premiumblog.com",
+      "role": "editor",
+      "avatar": "/placeholder.svg?height=80&width=80&text=EW"
+    },
+    {
+      "id": "u5",
+      "name": "Michael Green",
+      "email": "michael@premiumblog.com",
+      "role": "editor",
+      "avatar": "/placeholder.svg?height=80&width=80&text=MG"
+    },
+    {
+      "id": "u6",
+      "name": "Lisa Harmony",
+      "email": "lisa@premiumblog.com",
+      "role": "editor",
+      "avatar": "/placeholder.svg?height=80&width=80&text=LH"
+    },
+    {
+      "id": "u7",
+      "name": "David Future",
+      "email": "david@premiumblog.com",
+      "role": "editor",
+      "avatar": "/placeholder.svg?height=80&width=80&text=DF"
+    },
+    {
+      "id": "u8",
+      "name": "Dr. Rachel Green",
+      "email": "rachel@premiumblog.com",
+      "role": "editor",
+      "avatar": "/placeholder.svg?height=80&width=80&text=RG"
     }
   ],
   "ads": {
     "leaderboard": {
       "enabled": true,
-      "placeholder": "/images/ads/leaderboard-728x90.jpg",
+      "placeholder": "/placeholder.svg?height=90&width=728&text=Advertisement",
       "alt": "Advertisement - Premium Blog Leaderboard"
     },
     "sidebar": {
       "enabled": true,
-      "placeholder": "/images/ads/sidebar-300x250.jpg",
+      "placeholder": "/placeholder.svg?height=250&width=300&text=Advertisement",
       "alt": "Advertisement - Premium Blog Sidebar"
     },
     "inArticleSlots": [
-      { "position": 2, "placeholder": "/images/ads/inline-728x90.jpg" },
-      { "position": 6, "placeholder": "/images/ads/inline-728x90.jpg" }
+      { "position": 2, "placeholder": "/placeholder.svg?height=90&width=728&text=Advertisement" },
+      { "position": 6, "placeholder": "/placeholder.svg?height=90&width=728&text=Advertisement" }
     ],
     "popup": {
       "enabled": true,
-      "image": "/images/ads/popup-promo.jpg",
+      "image": "/placeholder.svg?height=200&width=400&text=Special+Offer",
       "title": "Special Offer",
       "description": "Get 50% off our premium content subscription!",
       "cta": "Subscribe Now",
